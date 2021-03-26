@@ -14,5 +14,8 @@
 				"file": "c:\\Users\\mhoney-arcement\\source\\repos\\react a11y\\${config:debug-current.file}"
 			}
 		]
+	},
+	"settings": {
+		"git.ignoreLimitWarning": true
 	}
 }
